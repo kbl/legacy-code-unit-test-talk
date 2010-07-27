@@ -18,7 +18,7 @@
   * assertThat
 
 
-!SLIDEi center bullets incremental
+!SLIDE center bullets incremental
 
 # Mockito #
 

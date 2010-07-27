@@ -1,5 +1,6 @@
 { "name": "Legacy Code i testy jednostkowe", 
   "sections": [ {"section": "intro"},
                 {"section": "test_frameworks"},
+                {"section": "stubs_mocks"},
                 {"section": "examples"},
                 {"section": "summary"}]}
