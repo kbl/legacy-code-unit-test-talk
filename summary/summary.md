@@ -10,4 +10,4 @@
 
 ### Marcin Pietraszek ###
 ### m.pietraszek@gmail.com ###
-### www.marcin.pietraszek.pl ###
+### <a href="www.marcin.pietraszek.pl">www.marcin.pietraszek.pl</a> ###
