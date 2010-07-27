@@ -6,7 +6,7 @@
 
 !SLIDE bullets incremental
 
-# Unit tests in long run gives us #
+# Unit tests in long run #
 
   * Faster time-to-market 
   * Scary of refactor?

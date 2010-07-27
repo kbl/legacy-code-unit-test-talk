@@ -1,6 +1,6 @@
 !SLIDE bullets incremental
 
-# Test frameworks #
+# Test related frameworks #
 
   * <a href="http://junit.org">JUnit</a>
   * <a href="http://mockito.org">Mockito</a>
