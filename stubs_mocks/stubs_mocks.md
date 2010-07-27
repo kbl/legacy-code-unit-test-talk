@@ -3,8 +3,8 @@
 # CTransakcjaBazowa #
 
   * db transaction support
-    * rollback
-    * commit
+  * rollback
+  * commit
   * obviously db dependent
   * stubbed implementation
 
@@ -47,7 +47,7 @@
 # CTransakcja #
 
   * db session management
-    * Mockito mock for db session
+  * Mockito mock for db session
   * obviously db dependent
 
 !SLIDE code smaller

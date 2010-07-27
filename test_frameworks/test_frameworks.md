@@ -33,12 +33,22 @@
 
 # JMockit #
 
-  * TODO
+  * constructors mocking
+  * static methods mocking
+  * well integrate with Mockito
 
 
-!SLIDE code
+!SLIDE bullets incremental
 
 # hamcrest #
+
+  * readable assertions
+  * easy tests of collections inclusion/eclusion
+  * could be used with standard JUnit asserts
+
+!SLIDE code incremental
+
+# hamcrest example #
 
     @@@ Java
     assertTrue(condition);
